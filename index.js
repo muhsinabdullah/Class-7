@@ -1,4 +1,4 @@
-et person ={
+let person ={
     name:"Muhsin",
     age:20,
     image:"",
